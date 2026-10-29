@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the article and this repository."
+title: "bimaterial-interlock-tcd: MATLAB–FEBio workflow for the design of interlocking interfaces in multi-material additive manufacturing"
+authors:
+  - family-names: "Öztürk"
+    given-names: "Fatih Huzeyfe"
+    affiliation: "Karabük University, Department of Mechanical Engineering"
+    email: "fhozturk@karabuk.edu.tr"
+version: "1.0.0"
+date-released: "2026-10-15"
+license: MIT
+repository-code: "https://github.com/[[username]]/bimaterial-interlock-tcd"
+keywords:
+  - additive manufacturing
+  - multi-material
+  - interlocking interface
+  - theory of critical distances
+  - finite element analysis
+  - FEBio
+  - Gaussian process
+  - ICME
+preferred-citation:
+  type: article
+  title: "Design of interlocking interfaces for multi-material additive manufacturing using finite element analysis and the Theory of Critical Distances"
+  authors:
+    - family-names: "Öztürk"
+      given-names: "Fatih Huzeyfe"
+  journal: "Computer-Aided Design"
+  year: 2026
+  notes: "Submitted"
